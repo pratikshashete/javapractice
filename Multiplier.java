@@ -57,7 +57,7 @@ class Multiplier {
 		long product1 = karatmultiply(1385, 63556);
 		System.out.println("Product 1 : " + product1);
 
-	    	long product2 = karatmultiply(1385, 63556);
+	    long product2 = karatmultiply(1385, 63556);
 		System.out.println("Product 2 : " + product2);
 		
 	}
